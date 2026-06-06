@@ -1579,7 +1579,7 @@ varshini
 - [qianqiang-del](https://github.com/qianqiang-del)
 - [im-vaishnavi](https://github.com/im-vaishnavi)
 - [Sebastian Ramirez](https://github.com/im-vaishnavi)
-- [Gonalves3236](https://github.com/Gonalves3236)
+- [Gonalves3236](https://github.com/Gonalves3236
 - [Rituraj Sharma](https://github.com/riturajdroid)
 - [William Morasch](https://github.com/wmora299)
 - [Derin Barutcu](https://github.com/derinbarutcu17)
@@ -1588,3 +1588,5 @@ varshini
 - [hjYu](https://github.com/HJ-Y-u)
 - [CodeByThur](https://github.com/CodeByThur) 📚👾
 -[Ekaanksh](https://github.com/Ekaanksh-dev)
+- Bharat Goswami(https://github.com/bharat19334)
+- 
